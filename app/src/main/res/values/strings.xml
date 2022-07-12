@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MotoAcademy_Storage_types</string>
+    <string name="shared_pref_message">Put a value number to be stored in SharedPreferences XML</string>
+    <string name="database_name">Name</string>
+    <string name="database_phonenumber">Telephone</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="store_in_db">Store in .db</string>
+    <string name="read_from_db">Read From .db</string>
+    <string name="read_shared_pref">Read Shared Pref</string>
+    <string name="write_shared_pref">Write Shared Pref</string>
+    <string name="db_fields_guide">Preencha os dados de usuario pra armazenar users.db</string>
+    <string name="motorola_logo">Motorola logo</string>
+    <string name="prop_value">Prop value:</string>
+    <string name="read_prop_value">Read Prop Value</string>
+    <string name="write_prop_value">Write Prop Value</string>
+</resources>
