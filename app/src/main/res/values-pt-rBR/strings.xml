@@ -3,15 +3,16 @@
     <string name="app_name">MotoAcademy_Storage_types</string>
     <string name="shared_pref_message">Coloque um valor a ser armazenado no XML</string>
     <string name="database_name">Nome</string>
-    <string name="database_phonenumber">Telefone</string>
-    <string name="phone_number">Phone Number:</string>
+    <string name="database_phonenumber">Telefone:</string>
+    <string name="phone_number">Telefone:</string>
     <string name="store_in_db">Armazenar no .db</string>
     <string name="read_from_db">Ler do .db</string>
-    <string name="read_shared_pref">Read Shared Pref</string>
-    <string name="write_shared_pref">Write Shared Pref</string>
-    <string name="db_fields_guide">Preencha os dados de usuario pra armazenar users.db</string>
+    <string name="read_shared_pref">Ler Shared Pref</string>
+    <string name="write_shared_pref">Escrever Shared Pref</string>
+    <string name="db_fields_guide">Preencha os dados de usuário pra armazenar users.db</string>
     <string name="motorola_logo">Motorola logo</string>
-    <string name="prop_value">Prop value:</string>
-    <string name="read_prop_value">Read Prop Value</string>
-    <string name="write_prop_value">Write Prop Value</string>
+    <string name="prop_value">Valor da Prop.</string>
+    <string name="read_prop_value">Ler valor da Prop.</string>
+    <string name="set_prop_value_guide">Crie a property dev.motoacademy.value e pressione o butão para ler</string>
+    <string name="clear_database">Limpar Banco de Dados</string>
 </resources>

@@ -8,9 +8,10 @@
     <string name="read_from_db">Read From .db</string>
     <string name="read_shared_pref">Read Shared Pref</string>
     <string name="write_shared_pref">Write Shared Pref</string>
-    <string name="db_fields_guide">Preencha os dados de usuario pra armazenar users.db</string>
+    <string name="db_fields_guide">Fill the values to store in MotoAcademy.db</string>
     <string name="motorola_logo">Motorola logo</string>
     <string name="prop_value">Prop value:</string>
     <string name="read_prop_value">Read Prop Value</string>
-    <string name="write_prop_value">Write Prop Value</string>
+    <string name="set_prop_value_guide">Create the property dev.motoacademy.value and press the button to read it</string>
+    <string name="clear_database">Clear Database</string>
 </resources>
